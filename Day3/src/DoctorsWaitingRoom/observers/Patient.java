@@ -27,7 +27,4 @@ public class Patient implements PropertyChangeListener
   public void propertyChange(PropertyChangeEvent evt) {
     setTicket(evt);
   }
-
-
-
 }
