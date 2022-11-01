@@ -4,7 +4,7 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import SimpleMVVM.viewmodel.TimestampViewModel;
-//import viewmodel.ViewModelFactory;
+//import client.viewmodel.ViewModelFactory;
 
 public class TimestampController {
 

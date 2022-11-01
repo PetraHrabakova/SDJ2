@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: lightblue;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ChatSystemMVVMLocal.views.login.LoginViewController">
+    <top>
+        <MenuBar style="-fx-background-color: darkorange;" BorderPane.alignment="CENTER">
+            <menus>
+                <Menu mnemonicParsing="false" style="-fx-font-weight: bold;" text="Chatbot">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="About" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" style="-fx-font-weight: bold;" text="Login">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </top>
+    <left>
+        <GridPane style="-fx-background-color: antiquewhite;" BorderPane.alignment="CENTER">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="222.0" minWidth="10.0" prefWidth="103.40000457763671" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="411.99993286132815" minWidth="10.0" prefWidth="401.6000122070312" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="188.0" minWidth="10.0" prefWidth="95.9999877929688" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints maxHeight="120.60001220703126" minHeight="10.0" prefHeight="51.80000610351563" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="317.1999969482422" minHeight="10.0" prefHeight="263.7999938964844" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="284.00002250671383" minHeight="10.0" prefHeight="60.40001220703124" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <children>
+                <Label prefHeight="30.0" prefWidth="229.0" style="-fx-font-size: 20;" text="Enter your nickname:" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <GridPane.margin>
+                        <Insets bottom="150.0" left="105.0" right="-110.0" />
+                    </GridPane.margin>
+                </Label>
+                <Button mnemonicParsing="false" onAction="#enterChat" prefHeight="40.0" prefWidth="110.0" style="-fx-background-color: darkorange; -fx-font-weight: bold; -fx-font-size: 14;" text="Enter Chat" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <GridPane.margin>
+                        <Insets left="150.0" top="90.0" />
+                    </GridPane.margin>
+                </Button>
+                <TextField fx:id="usernameField" alignment="CENTER" focusTraversable="false" maxHeight="40.0" maxWidth="250.0" style="-fx-font-size: 18; -fx-font-weight: bold;" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <GridPane.margin>
+                        <Insets bottom="40.0" left="75.0" />
+                    </GridPane.margin>
+                </TextField>
+                <Label fx:id="errorLabel" text="ERROR: Input cannot be empty." textFill="#e10e0e" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <GridPane.margin>
+                        <Insets left="100.0" right="-50.0" top="170.0" />
+                    </GridPane.margin>
+                </Label>
+                <Button mnemonicParsing="false" onAction="#onlineUsersButton" prefHeight="40.0" prefWidth="110.0" style="-fx-background-color: darkorange; -fx-font-weight: bold; -fx-font-size: 14;" text="Online Users" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <GridPane.margin>
+                        <Insets left="290.0" top="90.0" />
+                    </GridPane.margin>
+                </Button>
+                <Button mnemonicParsing="false" onAction="#onSubmitButton" prefHeight="40.0" prefWidth="120.0" style="-fx-background-color: darkorange; -fx-font-size: 12; -fx-font-weight: bold;" text="Submit Nickname" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <GridPane.margin>
+                        <Insets top="90.0" />
+                    </GridPane.margin>
+                </Button>
+            </children>
+        </GridPane>
+    </left>
+</BorderPane>

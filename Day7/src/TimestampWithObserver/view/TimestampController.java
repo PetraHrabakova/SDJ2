@@ -8,7 +8,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.shape.Circle;
 
 import java.beans.PropertyChangeEvent;
-//import viewmodel.ViewModelFactory;
+//import client.viewmodel.ViewModelFactory;
 
 public class TimestampController {
 

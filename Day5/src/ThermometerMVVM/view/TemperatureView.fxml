@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.*?>
-<VBox alignment="TOP_CENTER" prefHeight="220.0" prefWidth="471.0" spacing="10.0" userData="Temperature presenter" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ThermometerMVVM.view.TemperatureViewController">
+<VBox alignment="TOP_CENTER" prefHeight="220.0" prefWidth="471.0" spacing="10.0" userData="Temperature presenter" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ThermometerMVVM.client.view.TemperatureViewController">
    <children>
       <HBox>
          <children>

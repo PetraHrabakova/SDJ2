@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Assignment1/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1/Day1.iml" filepath="$PROJECT_DIR$/Day1/Day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day10-MVVM+Sockets/Day10-MVVM+Sockets.iml" filepath="$PROJECT_DIR$/Day10-MVVM+Sockets/Day10-MVVM+Sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day13/Day13.iml" filepath="$PROJECT_DIR$/Day13/Day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day14/Day14.iml" filepath="$PROJECT_DIR$/Day14/Day14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day15/Day15.iml" filepath="$PROJECT_DIR$/Day15/Day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day16/Day16.iml" filepath="$PROJECT_DIR$/Day16/Day16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2/Day2.iml" filepath="$PROJECT_DIR$/Day2/Day2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day3/Day3.iml" filepath="$PROJECT_DIR$/Day3/Day3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day4/Day4.iml" filepath="$PROJECT_DIR$/Day4/Day4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day5/Day5.iml" filepath="$PROJECT_DIR$/Day5/Day5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day6/Day6.iml" filepath="$PROJECT_DIR$/Day6/Day6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day7/Day7.iml" filepath="$PROJECT_DIR$/Day7/Day7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day8/Day8.iml" filepath="$PROJECT_DIR$/Day8/Day8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day9/Day9.iml" filepath="$PROJECT_DIR$/Day9/Day9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day16/LoginApplication/LoginApplication.iml" filepath="$PROJECT_DIR$/Day16/LoginApplication/LoginApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day16/Queue/Queue.iml" filepath="$PROJECT_DIR$/Day16/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SDJ2.iml" filepath="$PROJECT_DIR$/.idea/SDJ2.iml" />
     </modules>
   </component>

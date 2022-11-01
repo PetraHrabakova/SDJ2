@@ -12,7 +12,7 @@
 <?import javafx.scene.layout.VBox?>
 
 
-<AnchorPane prefHeight="93.0" prefWidth="375.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UpperCaseMVVM.view.UppercaseViewController">
+<AnchorPane prefHeight="93.0" prefWidth="375.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UpperCaseMVVM.client.view.UppercaseViewController">
    <children>
       <BorderPane prefHeight="126.0" prefWidth="424.0">
          <top>

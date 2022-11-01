@@ -9,16 +9,16 @@ import TimestampWithObserver.viewmodel.ViewModelFactory;
 
 import java.util.Random;
 
-//import model.ModelFactory;
-//import viewmodel.ViewModelFactory;
+//import client.model.ModelFactory;
+//import client.viewmodel.ViewModelFactory;
 
 @SuppressWarnings("ALL")
 public class TimestampObserverApp extends Application {
 
   @Override
   public void start(Stage stage) throws Exception {
-    //        DataModel model = new DataModelManager();
-    //        TimestampViewModel viewModel =new TimestampViewModel(model);
+    //        DataModel client.model = new DataModelManager();
+    //        TimestampViewModel viewModel =new TimestampViewModel(client.model);
     //        ViewHandler viewHandler = new ViewHandler(stage, viewModel);
     ModelFactory mf = new ModelFactory();
     ViewModelFactory viewModelFactory = new ViewModelFactory(mf);

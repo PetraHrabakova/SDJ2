@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: lightblue;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HeaterSystem.client.view.LoginViewController">
+   <top>
+      <MenuBar style="-fx-background-color: lightblue;" BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" style="-fx-font-weight: bold;" text="Heating system">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+            <Menu mnemonicParsing="false">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Delete" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Delete" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Delete" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Delete" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Delete" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Delete" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" style="-fx-font-weight: bold;" text="HeaterSystem status and settings">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Delete" />
+               </items>
+            </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <GridPane style="-fx-background-color: antiquewhite;" BorderPane.alignment="CENTER">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="222.0" minWidth="10.0" prefWidth="151.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="318.0" minWidth="10.0" prefWidth="279.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="188.0" minWidth="10.0" prefWidth="168.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="120.60001220703126" minHeight="10.0" prefHeight="65.79999389648438" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="284.00002250671383" minHeight="10.0" prefHeight="247.40000610351566" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label prefHeight="30.0" prefWidth="229.0" style="-fx-font-size: 20;" text="Turn up/down the heater" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <GridPane.margin>
+                  <Insets bottom="150.0" left="35.0" right="-110.0" />
+               </GridPane.margin>
+            </Label>
+            <Label prefHeight="21.0" prefWidth="153.0" style="-fx-font-size: 15;" text="Current heater state:">
+               <GridPane.margin>
+                  <Insets left="10.0" />
+               </GridPane.margin>
+            </Label>
+            <Button mnemonicParsing="false" onAction="#turnUp" prefHeight="42.0" prefWidth="111.0" style="-fx-background-color: lightblue; -fx-font-size: 17; -fx-font-weight: bold;" text="Turn Up" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <GridPane.margin>
+                  <Insets left="90.0" top="-40.0" />
+               </GridPane.margin>
+            </Button>
+            <TextField fx:id="heaterState" alignment="CENTER" style="-fx-font-size: 22; -fx-font-weight: bold;" GridPane.columnIndex="1">
+               <GridPane.margin>
+                  <Insets right="150.0" />
+               </GridPane.margin>
+            </TextField>
+            <Button mnemonicParsing="false" onAction="#turnDown" prefHeight="42.0" prefWidth="111.0" style="-fx-background-color: lightblue; -fx-font-weight: bold; -fx-font-size: 17;" text="Turn Down" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <GridPane.margin>
+                  <Insets left="90.0" top="90.0" />
+               </GridPane.margin>
+            </Button>
+         </children>
+      </GridPane>
+   </center>
+   <bottom>
+      <Button mnemonicParsing="false" onAction="#goToThermometerView" style="-fx-background-color: lightsalmon;" text="Go to Thermometer View" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets bottom="20.0" left="370.0" top="15.0" />
+         </BorderPane.margin>
+      </Button>
+   </bottom>
+</BorderPane>

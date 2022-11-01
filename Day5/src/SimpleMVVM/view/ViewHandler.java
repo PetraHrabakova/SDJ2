@@ -6,7 +6,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import SimpleMVVM.viewmodel.TimestampViewModel;
 import SimpleMVVM.viewmodel.ViewModelFactory;
-//import viewmodel.ViewModelFactory;
+//import client.viewmodel.ViewModelFactory;
 
 import java.io.IOException;
 
@@ -36,7 +36,7 @@ public class ViewHandler {
         if("Timestamp".equals(viewToOpen)) {
             TimestampController view = loader.getController();
             view.init(viewModelFactory.getTimestampViewModel());
-//            view.init(viewModel);
+//            client.view.init(viewModel);
             stage.setTitle("Pie Chart");
         }
 

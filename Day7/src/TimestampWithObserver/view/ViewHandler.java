@@ -8,7 +8,7 @@ import TimestampWithObserver.viewmodel.ViewModelFactory;
 
 import java.io.IOException;
 
-//import viewmodel.ViewModelFactory;
+//import client.viewmodel.ViewModelFactory;
 
 public class ViewHandler {
 
@@ -36,7 +36,7 @@ public class ViewHandler {
         if("Timestamp".equals(viewToOpen)) {
             TimestampController view = loader.getController();
             view.init(viewModelFactory.getTimestampViewModel());
-//            view.init(viewModel);
+//            client.view.init(viewModel);
             stage.setTitle("Timestamp");
         }
 

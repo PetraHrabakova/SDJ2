@@ -12,7 +12,6 @@ public class DataModelManager implements DataModel, PropertyChangeSubject {
     private String lastUpdate;
     private int numberOfUpdates;
     private PropertyChangeSupport propertyChangeSupport;
-    private int counter = 0;
 
     public DataModelManager() {
         propertyChangeSupport = new PropertyChangeSupport(this);
@@ -38,7 +37,6 @@ public class DataModelManager implements DataModel, PropertyChangeSubject {
         calcTimeStamp();
         propertyChangeSupport.firePropertyChange("Updated", last, lastUpdate);
         changeColorPaint();
-        counter++;
     }
 
     private void calcTimeStamp() {
