@@ -10,7 +10,6 @@ import java.util.List;
 
 public class UserlistViewModel
 {
-
     private ObservableList<UserEntry> users;
 
     private DataModel model;

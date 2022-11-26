@@ -36,7 +36,7 @@
                         <Button mnemonicParsing="false" onAction="#onExitButton" prefHeight="50.0" prefWidth="72.0" text="Exit" />
                     </children>
                 </HBox>
-                  <Button mnemonicParsing="false" onAction="#onLoginButton" prefHeight="50.0" prefWidth="100.0" text="Log in" GridPane.rowIndex="3" />
+                  <Button mnemonicParsing="false" onAction="#onLoginButton" prefHeight="50.0" prefWidth="100.0" text="log.Log in" GridPane.rowIndex="3" />
 
             </children>
         </GridPane>

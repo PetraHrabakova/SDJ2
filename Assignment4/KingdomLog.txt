@@ -1,0 +1,2441 @@
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Accountant counted 9 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Accountant counted 8 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Accountant counted 6 valuables in THE TREASURE ROOM
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 8
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Accountant counted 8 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 10
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Accountant counted 9 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 5
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 just delivered 5 valuables to THE TREASURE ROOM
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Accountant counted 5 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 5 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 8
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 needs to retrieve 7
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 just delivered 7 valuables to THE TREASURE ROOM
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Accountant counted 7 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 9
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 7
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 6
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 8
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 9
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 9
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Accountant counted 8 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 9
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Accountant counted 9 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Jewel
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Accountant counted 17 valuables in THE TREASURE ROOM
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 9
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+Miner-1 just mined Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Accountant counted 9 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 just delivered 5 valuables to THE TREASURE ROOM
+Miner-1 just mined Jewel
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Accountant counted 5 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Accountant counted 14 valuables in THE TREASURE ROOM
+Miner-2 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Accountant counted 8 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 just delivered 5 valuables to THE TREASURE ROOM
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Accountant counted 5 valuables in THE TREASURE ROOM
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 10
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 just delivered 10 valuables to THE TREASURE ROOM
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Accountant counted 10 valuables in THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 6
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 7
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Accountant counted 6 valuables in THE TREASURE ROOM
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 10
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 10 valuables to THE TREASURE ROOM
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Accountant counted 1 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 6
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+Accountant counted 1 valuables in THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+!!! KING JUST CANCELLED THE PARTY !!!
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 5
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-1 just mined Ruby
+Accountant counted 6 valuables in THE TREASURE ROOM
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 9
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Accountant counted 2 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 6
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 7
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 10
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 9
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant is resting after counting valuables
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 7
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 7
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+ValuablesTransporter-1 retrieved Jewel
+Accountant is resting after counting valuables
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 7 valuables to THE TREASURE ROOM
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+!!! KING JUST CANCELLED THE PARTY !!!
+ValuablesTransporter-1 needs to retrieve 7
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 just delivered 7 valuables to THE TREASURE ROOM
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Accountant counted 13 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Accountant counted 15 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 needs to retrieve 10
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 10 valuables to THE TREASURE ROOM
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+King just acquired the valuables. START MIXING DRINKS!!!
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Accountant counted 27 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 10
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-2 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 just delivered 10 valuables to THE TREASURE ROOM
+Miner-1 just mined Ruby
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Accountant counted 27 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 10
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 just delivered 10 valuables to THE TREASURE ROOM
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+Miner-1 just mined Golden Nugget
+King just acquired the valuables. START MIXING DRINKS!!!
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Accountant counted 28 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+King just acquired the valuables. START MIXING DRINKS!!!
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 9
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-1 just mined Diamond
+King needs 5 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Accountant counted 4 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 just delivered 5 valuables to THE TREASURE ROOM
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Wooden Coin
+King needs 9 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 10
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+King needs 9 valuables to throw a party
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-1 just mined Ruby
+Miner-2 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Diamond
+Miner-1 just mined Jewel
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 7
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+Miner-2 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 7 valuables to THE TREASURE ROOM
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+King needs 7 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+Miner-1 just mined Jewel
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Accountant counted 0 valuables in THE TREASURE ROOM
+ValuablesTransporter-1 needs to retrieve 6
+Accountant is resting after counting valuables
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Golden Nugget
+Miner-2 just mined Jewel
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+King needs 10 valuables to throw a party
+!!! KING JUST CANCELLED THE PARTY !!!
+KING RETURNED VALUABLES
+ValuablesTransporter-1 needs to retrieve 5
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 5 valuables to THE TREASURE ROOM
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Accountant counted 11 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+ValuablesTransporter-1 needs to retrieve 7
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 7 valuables to THE TREASURE ROOM
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+King needs 6 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+Miner-1 just mined Diamond
+Miner-2 just mined Jewel
+Miner-1 just mined Jewel
+Miner-2 just mined Wooden Coin
+Accountant counted 12 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Diamond
+King needs 10 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-1 just mined Jewel
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Accountant counted 20 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+ValuablesTransporter-1 needs to retrieve 9
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 just delivered 9 valuables to THE TREASURE ROOM
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Ruby
+Miner-2 just mined Jewel
+King needs 10 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+Miner-1 just mined Diamond
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Accountant counted 19 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+ValuablesTransporter-1 needs to retrieve 8
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 just delivered 8 valuables to THE TREASURE ROOM
+Miner-1 just mined Ruby
+Miner-2 just mined Wooden Coin
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Miner-1 just mined Diamond
+Miner-2 just mined Ruby
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+King needs 6 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+ValuablesTransporter-1 needs to retrieve 6
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 just delivered 6 valuables to THE TREASURE ROOM
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 needs to retrieve 10
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Accountant counted 0 valuables in THE TREASURE ROOM
+ValuablesTransporter-1 retrieved Wooden Coin
+Accountant is resting after counting valuables
+Miner-1 just mined Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Wooden Coin
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Diamond
+Miner-1 just mined Diamond
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 just delivered 10 valuables to THE TREASURE ROOM
+King needs 6 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Ruby
+Miner-2 just mined Diamond
+Accountant counted 4 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 10
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-1 just mined Jewel
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 is waiting because Deposit is empty
+Miner-2 just mined Golden Nugget
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Golden Nugget
+Miner-1 just mined Golden Nugget
+ValuablesTransporter-1 is waiting because Deposit is empty
+ValuablesTransporter-1 retrieved Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 just delivered 10 valuables to THE TREASURE ROOM
+Miner-1 just mined Jewel
+Miner-2 just mined Diamond
+King needs 5 valuables to throw a party
+King just acquired the valuables. START MIXING DRINKS!!!
+KING IS TAKING VALUABLES AND STARTING PARTY
+Miner-1 just mined Diamond
+Miner-2 just mined Golden Nugget
+Miner-1 just mined Wooden Coin
+Miner-2 just mined Jewel
+Accountant counted 9 valuables in THE TREASURE ROOM
+Accountant is resting after counting valuables
+Miner-1 just mined Ruby
+Miner-2 just mined Ruby
+ValuablesTransporter-1 needs to retrieve 10
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Diamond
+ValuablesTransporter-1 retrieved Golden Nugget
+ValuablesTransporter-1 retrieved Wooden Coin
+ValuablesTransporter-1 retrieved Jewel
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 retrieved Ruby
+ValuablesTransporter-1 is waiting because Deposit is empty
